@@ -1,0 +1,197 @@
+[
+  {
+    "name": "GRUPO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "FILA",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "NUMERO_ATIVIDADE",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "PEDIDO_VINCULO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ATIVIDADE_ORIGEM",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "LOGIN_OPERADORA",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "NOME_CLIENTE",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "CPF_CNPJ",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "CIDADE_CLIENTE",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ESTADO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+ {
+    "name": "DDD",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "PROPRIETARIO_DO_PEDIDO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "TAGS_USUARIO_PEDIDO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ADM_DO_PEDIDO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "CONSULTOR_NA_OPERADORA",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "EQUIPE",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ETAPA_PEDIDO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "CADASTRO",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+{
+    "name": "ATUALIZACAO"
+    "type": "DATETIME",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "SOLICITACAO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "TIPO_NEGOCIACAO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "NOTAS_FISCAIS",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "REVISAO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ITEM",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "NUMERO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ETAPA_ITEM",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "PORTABILIDADE",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "PRODUTO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "VALOR_UNIT",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "QUANTIDADE",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "DATA_REF",
+    "type": "DATE",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "ORIGEM",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "DATA_INSTALACAO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "PERIODO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "CIDADE_INSTALACAO",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "UF",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "RPON",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "INSTANCIA",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "TAGS",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]
